@@ -7,6 +7,7 @@ and a script to update the CVE Database.
 To use the script execute the following commands in shell consecutively.
 Steps to follow;
 
+
 ```
 git clone "https://github.com/technovalley-aks/vulnscan"
 
